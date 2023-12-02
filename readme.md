@@ -1,58 +1,43 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;900&display=swap" rel="stylesheet">
-<body style=" font-family: Poppins;">
-
-<!-- Ignore above(just formating) -->
-
-# 100xDevs Cohort 2.0 Notes
-
-<img src="https://d33g7sdvsfd029.cloudfront.net/teachcode/admin/COURSE/cover/1699610005757WhatsApp-Image-2023-11-10-at-3.16.18-PM.jpeg" alt="Banner" style="width: 200px; margin-left: 100px; border-radius: 10px;">
+# 100xDevs Cohort 2.0 Notes 🍉
 
 This is a collection of all the notes I'll make during the cohort
+
+<p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
+    <li>Add a post on <b>LinkedIn</b> with the Repo's link and tag the owner (Mohammed Faizan)</li>
+    <li>Add a <b>Tweet</b> with the Repo's link and tag the owner (mohdfaizan5)</li>
+</p>
+
+<p align="center">
+    <a href="https://100xdevs.com/">
+      <img src="https://d33g7sdvsfd029.cloudfront.net/teachcode/admin/COURSE/cover/1699610005757WhatsApp-Image-2023-11-10-at-3.16.18-PM.jpeg" alt="Banner" style="width: 500px; margin-left: 100px; border-radius: 10px;">
+    </a>
+</p>
 
 |Week|Context|
 |---|---|
 |[Week-0](./week-0/readme.md)| HTML, Node setup, CSS|
 
 
----
-## Contributers:
 
-<section class="contributers_list" style="display: flex; gap: 10px; flex-wrap: wrap;">
-  
-  <div >
-    <a href="https://github.com/mohdfaizan5" style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://avatars.githubusercontent.com/u/79694828?v=4" alt="" style="height: 60px; border-radius: 50%">
-    <h4 style="margin-top: 0px; font-weight: 400; max-width: 100px; text-align: center;">Faizan</h4>
+<!--
+<p align="center">
+    <a href="https://www.twitter.com/alisolankii">
+        <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
     </a>
-  </div>
-
-<!-- 
-
-  Copy below and   
-  <div >
-    <a href="https://github.com/mohdfaizan5" style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://avatars.githubusercontent.com/u/79694828?v=4" alt="" style="height: 60px; border-radius: 50%">
-    <h4 style="margin-top: 0px; font-weight: 400; max-width: 100px; text-align: center;">Faizan</h4>
+    <a href="https://linkedin.com/in/alisolanki">
+        <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
     </a>
-  </div>
- -->
-
-
-
-</section>
-
-## How to contribute
-1. Fork the repo and star⭐ it.
-2. Clone in local repo
-3. Add name to contributor list `readme.md`
-4. Add Good changes project lists 
-
-
+    <a href="https://www.youtube.com/AliSolanki">
+        <img height="50" src="https://github.com/Hsrah00/icons/blob/main/6214533_logo_youtube_icon.png"/>
+    </a>
+    <a href="https://www.instagram.com/alisolankii">
+        <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+    </a>
+</p>
+-->
 ## What to contribute:
 * Notes of javascript, Typescript, MERN, DevOps
-* Project ideas
+* Project Ideas
 * Tips and tricks
 * GSOC tips and tricks.
 * Or something that adds value to people
@@ -60,4 +45,38 @@ This is a collection of all the notes I'll make during the cohort
 > Feel Free to open **issues**...
 
 
-</body>
+
+<p>List of actively participating individuals in open source contributions</p>
+
+- Add your details to the contributor list
+- Make a Pull Request
+- [Steps to add yourself to the contributor's list]()
+
+
+## Contributors 🍉
+
+Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST: START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdown-lint-disable -->
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://mohdfaizan.me/">
+                    <img src="https://avatars.githubusercontent.com/u/79694828?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Mohammed Faizan</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="">
+                    <img src="" width="100px;" alt="Akshy"/>
+                    <br />
+                    <sub><b>Akshy</b></sub>
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
