@@ -70,12 +70,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Mohammed Faizan</b></sub>
                 </a> 
             </td>
-            <td align="center">
-                <a href="">
-                    <img src="" width="100px;" alt="Akshy"/>
+             <td align="center">
+                <a href="https://github.com/akshsekhr2702">
+                    <img src="https://avatars.githubusercontent.com/u/141441919?v=4" width="100px;" alt="AKSHYANSHU"/>
                     <br />
-                    <sub><b>Akshy</b></sub>
-                </a>
+                    <sub><b>Akshyanshu Sekhar Nayak</b></sub>
+                </a> 
             </td>
         </tr>
     </tbody>
