@@ -84,6 +84,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>LIKITHA.N</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/kupendrav">
+                    <img src="https://avatars.githubusercontent.com/u/93828746?v=4" width="100px;" alt="Kupendra"/>
+                    <br />
+                    <sub><b>Kupendra</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
