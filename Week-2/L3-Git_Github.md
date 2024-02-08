@@ -87,6 +87,8 @@ After knowing how to use Github to create or add the files now lets see how we c
 1. Install Git locally
 2. Config your username and email
 ```
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
 
 ```
 3. Imagine your are working on the new project, now u need create new repo under that project and push the code
