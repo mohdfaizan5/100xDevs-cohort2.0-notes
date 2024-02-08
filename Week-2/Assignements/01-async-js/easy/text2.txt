@@ -1,0 +1,1 @@
+This is the content that should be included the b.txt file
