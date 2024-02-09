@@ -3,7 +3,7 @@
 1. What is Git??
 - It is a Free Source version control System.
 
-What is version control System.
+What is a version control System.
 - 
 * A system that keeps track of our files or projects.
 * It allow you to revert selected files to a previous state,revert the entire project to a previous state, compare changes over time ,see who last modifided something so that we can know what might be causing a problem,or what is the issue, who made it , and when with the details.
@@ -28,16 +28,16 @@ As the name suggest , there is a centralized server which is actually used to ac
 
 ![](./Assets/centralized.png)
 
-* The group of people who are working under the same project can get the current project from the main track i.e(centralized vcs)
+* The group of people who are working under the same project can get the current project from the main track i.e(centralized VCs)
 
 * They can even push the change they made in their code to the main project
 
 * This is only good for small projects 
-* The disadvatange of this system is as the size of the codebase and the number of developers increase, the performance of a Centralized vcs can degrade. Operations like checkouts and updates may become slower due to the need to communicate with the central server for every action.
+* The disadvantage of this system is as the size of the codebase and the number of developers increase, the performance of a centralized VCS can degrade. Operations like checkouts and updates may become slower due to the need to communicate with the central server for every action.
 * It requires a constant network connection to the central server. 
 
 ### Distributed :
- This is very useful tecqunique when  ur dealing with big projects .
+ This is very useful technique when  ur dealing with big projects .
 
 ![](./Assets/disributed.png) 
 
@@ -45,7 +45,7 @@ As the name suggest , there is a centralized server which is actually used to ac
 
 * Developers can work on their local copies of the repository even when not connected to a network. 
 
-* Network connection is only required when the contributer needs to publish their code or sync the updates.
+* Network connection is only required when the contributor needs to publish their code or sync the updates.
 
 Ex : Git and Mercuria
 
@@ -58,7 +58,7 @@ Ex : Git and Mercuria
 * It is Super fast
 * Cheap branching and merging
 
-What is Github ?
+What is GitHub ?
 - 
 * Github is a web-based hosting server for git repositories.
 * You can use git without github but you cannot use github without git.
@@ -77,7 +77,7 @@ What is Github ?
 ## GIT Commands
 ![](./Assets/Commands.png)
 
-Assignement : 
+Assignment : 
 1. Create a github account
 2. Try to create a demo repository
 3. Add / Create readme file, make some commits ,Try of exploring the github
@@ -93,7 +93,7 @@ git config --global user.email "your.email@example.com"
 ```
 3. Imagine your are working on the new project, now u need create new repo under that project and push the code
 * Open the git bash terminal
-* Navigate throught the folder your working on, by using command ``` cd ``` i.e change directory
+* Navigate through the folder your working on, by using command ``` cd ``` i.e change directory
 * Use command ``` git init ``` which help to create the new repo
 * To check wheather it have created the repo use the command ``` ls -la``` , you will see the folder with the name git, which conform the creation of repo
 * To know the current status of repo, use ``` git status ``` 
@@ -138,7 +138,7 @@ After u feels like your features can be added to ur main project , then u can me
 * We can switch the branch by using the command ``` git checkout <branch_name> ```
 * U can add the files in the new created branch and u can check the status of it . 
 * Changes that  made in new branch will not reflect in main branch until it is merged to main branch
-* ```git diff <branch_name>``` This command mainly provide the differnce between the main and the new branch, it can be incase of insertion/ delection of file
+* ```git diff <branch_name>``` This command mainly provide the difference between the main and the new branch, it can be incase of insertion/ delection of file
 * To merge the new branch to main branch, first we need to do pull request to main branch
 * After accepting the merge request , the changes in new branch will be reflection on the main branch
 * In Git, the ```git commit -am``` command is a shorthand for combining the git add and git commit commands. 
@@ -151,10 +151,10 @@ After u feels like your features can be added to ur main project , then u can me
 
 ![](./Assets/merge_confil3.png)
 
-* If there is the change in same part of same file differenty in two branches that we are merging, then git conflits occus, to clear this u need to go into that particular file and can fix the problem
+* If there is the change in same part of same file differently in two branches that we are merging, then git conflicts occurs, to clear this u need to go into that particular file and can fix the problem
 
 ### Issues in Git
-* It allow you to collobrate,track changes,communicate what need to be done in the repostries more effectively,can rise the issue about the project. And action can also be taken for these issues
+* It allow you to collaborate,track changes,communicate what need to be done in the repositories more effectively,can raise the issue about the project. And action can also be taken for these issues
 
 1. Click on Issue tab  
 

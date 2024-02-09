@@ -8,21 +8,21 @@ Let's embark on a journey of understanding as we delve into the meanings of vari
 1. What is ECMAScript?
 2. What is Javascript?
 3. What is Node.js?
-4. Whai is Bun?
+4. What is Bun?
 
 ### 1 . ECMA Script 
 * ECMA script is a scripting language specification on which javascript is based.
-* Ecma international is in charge of standarizing ECMAScipt.
-* It bascially says that whoever needs to write a compiler for javascript
+* Ecma international is in charge of standardizing ECMAScript.
+* It basically says that whoever needs to write a compiler for javascript
 they need to follow the ECMA script standard
 * It serves as a guideline or rules for scripting language design.
-* Our browers also keep on updating on new js standards that ECMA script introduce every year.
+* Our browsers also keep on updating on new js standards that the ECMA script introduce every year.
 
 > [Website link](https://tc39.es/ecma262/#sec-numbers-and-dates) - It gives the specification on javascript
 
 ### 2 . Java Script
 * Java script is a scripting language that conforms to the ECMAScript specification.
-* Java script also define some additional features that is not supported by ECMA , like Document Object Model(DOM) manuplication, which is crucial for web developement but it is not included in the ECMA standards.
+* Java script also define some additional features that is not supported by ECMA , like Document Object Model(DOM) manuplication, which is crucial for web development but it is not included in the ECMA standards.
 * Example : setTimeout , fs.readFile.
 
 
@@ -42,13 +42,13 @@ they need to follow the ECMA script standard
 
 ### 3. Node.js
 * Node.js is  javaScript runtime environment that executes JavaScript code outside of a web browser
-* Js initally used in browsers but later some some smart people took the V8 engine(i.e javascript engine) and added some Backend features (Filesystem reads) on the top to create a new runtime engine i.e Node.js.
+* Js initially used in browsers but later some some smart people took the V8 engine(i.e. javascript engine) and added some Backend features (Filesystem reads) on the top to create a new runtime engine i.e. Node.js.
 * Written in C and C++
 
 ### 4. Bun
 * It is competitor of node.js
 * Written in Zig
-* It is significaly faster than node.js
+* It is significantly faster than node.js
 * > [Bun Github repository](https://github.com/oven-sh/bun)
 
 
@@ -62,7 +62,7 @@ they need to follow the ECMA script standard
 
 ### What is HTTP ?
 * HTTP stands for Hyper Text Transfer Protocol
-* A Protocal that is defined for Machine to communicate. Specifically for websites,it is the most common way for website frountend to talk to its backend.
+* A Protocol that is defined for Machine to communicate. Specifically for websites,it is the most common way for website frontend to talk to its backend.
 
 ![](./Assets/Http_protocol.png)
 
@@ -87,7 +87,7 @@ they need to follow the ECMA script standard
 - It help determine how incoming HTTP requests are processed and which part of the application should respond.
 4. Headers - Mainly for Authentication
 5. Body - It is the Request that is sent by user
-Ex - User can ask any types of questions to chartgpt,That string(questions) are sent as body in json formate
+Ex - User can ask any types of questions to chartgpt,That string(questions) are sent as body in JSON formate
 6. Method - Common HTTP methods include GET (retrieve data), POST (submit data), PUT (update data), DELETE (delete data), etc.
 
 
@@ -112,7 +112,7 @@ Ex - User can ask any types of questions to chartgpt,That string(questions) are 
 
 DNS - Domain Name System
 
-* Its very difficult to remember the IP address of the website very time so we use their domain name to visit the particular website.
+* Its very difficult to remember the IP address of the website every time so we use their domain name to visit the particular website.
 * When a user enters a domain name (e.g., www.example.com) into a web browser, the DNS system is responsible for translating this domain name into the corresponding IP address that points to the server hosting the website.
 
 #### Server-side : After sending the request
@@ -143,21 +143,21 @@ Question that we usuall get
 ```
 
 
-### Express - It is external libraies to create a http server
+### Express - It is external library to create a HTTP server
 
 Lets create Http server
 
 1. First make sure u have node and vs code editor installed in ur machine.
 2. create and open the folder
 3. create a file called index.js
-4. Open the terminal and ruun the following commands
+4. Open the terminal and run the following commands
 
 > // for installing the npm package
  * npm init - y  
 > // for installing the express
 * npm i express 
 
-5. Open your web browser and navigate to http://localhost:3000/. You should see the response "I have Created my first HTTP sever"
+5. Open your web browser and navigate to http://localhost:3000/. You should see the response "I have Created my first HTTP server"
 
 6. Command to run the index.js file - node index.js
 

@@ -23,14 +23,14 @@ console.log(sum)
 console.log(add(2,1))
 ```
 
-> When we observe both noraml and arrow function , the synatax of arrow function looks more simple and easy.
+> When we observe both normal and arrow function , the syntax of arrow function looks more simple and easy.
 > In arrow function we don't use keyword 'function' instead of that we use a arrow
 '=>'
 
 
 ### Map method( )
 
-1. Lets imagine u have array of integer ,u need return a new array where every value is multipled by 2
+1. Lets imagine u have array of integer ,u need return a new array where every value is multiplied by 2
 
 Method 1:
 
